@@ -30,6 +30,7 @@ Download and launch **setup.msi**. A shortcut will appear in your Desktop. The s
 <!-- SOURCE STEPS -->
 ### Source
 
+**WARNING : This project requires MSVC compiler as it uses Visual Studio library files (*.lib).**
 1. Clone the repository
    ```bash
    git clone https://github.com/HoussamCzn/FITSstacker.git
