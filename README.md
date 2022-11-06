@@ -6,8 +6,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#installation">Installation</a>
+    <li><a href="#about">About</a>
+    <li><a href="#installation">Installation</a>
       <ul>
         <li><a href="#executable">Executable</a></li>
         <li><a href="#source">Source</a></li>
@@ -18,6 +18,13 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+<!-- ABOUT -->
+## About
+
+This project is part of a university assignment for the **University Institute of Technology at Calais**. Within 2 weeks, we were required to create an app able to stack FITS data using either Python with the astropy library of C++ with the CCfits library.
+We decided to use C++ with CCfits because of **the difficulty**. Installing the libraries was a first step and it **introduced us to the use of CMake utilities**.
+This project was made using Visual Studio and Qt. Learning how to link those 2 utilities was also a good experience to **know more about libraries and dependencies**.
 
 <!-- INSTALLATION -->
 ## Installation
