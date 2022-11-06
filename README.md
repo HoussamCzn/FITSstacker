@@ -38,6 +38,11 @@ Download and launch **setup.msi**. A shortcut will appear in your Desktop. The s
 
 2. Open the ``.sln`` file if you're using Visual Studio or the ``.pro`` file for QtCreator users.
 
+3. **ONLY** for QtCreator users, change the build directory of the project.
+>![usage](img/build_dir_qt.png)
+
+Change the "Build directory" field by the absolute path of your cloned repository. You'll find this setting inside the "Projects" menu at the left. The warning presented here is not important, it will compile anyway.
+
 <!-- FEATURES -->
 ## Features
 
